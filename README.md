@@ -31,7 +31,9 @@ Trata-se de um sistema que cadastra bases de dados onde você poderá acessá-la
   <p align="justify">Realizando a pesquisa por filme específico é possível aqui editar e excluir filmes desejados.</P>
  <img src = "https://github.com/Renato9889/CatalogoDeFilmes_JAVA/assets/38532053/00b8f966-aeae-45a8-8aea-d66a9906a61e">
  <img src = "https://github.com/Renato9889/CatalogoDeFilmes_JAVA/assets/38532053/7c464d23-f38a-4881-826d-0e5c5ab1ea58">
- ## ✔️ Técnicas e tecnologias utilizadas
+ 
+ 
+## ✔️ Técnicas e tecnologias utilizadas
 - ``Java``
 - ``IntelliJ IDEA``
 - ``Paradigma de orientação a objetos``
